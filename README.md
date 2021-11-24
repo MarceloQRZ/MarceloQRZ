@@ -9,7 +9,7 @@
   <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-C" height="30" width="40" src="https://img.icons8.com/color/480/c-programming.png">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif>
+  <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;" src=https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif>
 </div>
   
   ##
